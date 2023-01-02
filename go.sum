@@ -1,0 +1,5 @@
+gioui.org v0.0.0-20230101161950-e9bce02b24f0 h1:/3chuQ/TLkZ6SubTxxxOfO5FM1PUWVo0o/epk6PNe1o=
+gioui.org v0.0.0-20230101161950-e9bce02b24f0/go.mod h1:3lLo7xMHYnnHTrgKNNctBjEKKH3wQCO2Sn7ti5Jy8mU=
+gioui.org/cpu v0.0.0-20210817075930-8d6a761490d2 h1:AGDDxsJE1RpcXTAxPG2B4jrwVUJGFDjINIPi1jtO6pc=
+gioui.org/shader v1.0.6 h1:cvZmU+eODFR2545X+/8XucgZdTtEjR3QWW6W65b0q5Y=
+golang.org/x/sys v0.0.0-20220825204002-c680a09ffe64 h1:UiNENfZ8gDvpiWw7IpOMQ27spWmThO1RwwdQVbJahJM=
